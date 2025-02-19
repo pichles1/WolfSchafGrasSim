@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\clearabletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\clearabletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\clearabletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\core\\models\\schaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|solutionrelative:core\\models\\schaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD670C1-A977-4F7E-83C4-889B107DF896}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\businesslogic\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD670C1-A977-4F7E-83C4-889B107DF896}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\core\\models\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|solutionrelative:core\\models\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\core\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|solutionrelative:core\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\livechartpopulation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\livechartpopulation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\core\\models\\gras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C33D80-2F43-48A0-AA56-64771E3128B0}|Core\\Core.csproj|solutionrelative:core\\models\\gras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|c:\\users\\pichles1\\source\\repos\\wolfschafgrassimulation\\app\\livechartpopulation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D76946-B567-46FF-9D3C-9A329BE78BA6}|App\\Simulator.csproj|solutionrelative:app\\livechartpopulation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiveChartPopulation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\LiveChartPopulation.xaml.cs",
+              "RelativeDocumentMoniker": "App\\LiveChartPopulation.xaml.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\LiveChartPopulation.xaml.cs",
+              "RelativeToolTip": "App\\LiveChartPopulation.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:08:55.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\MainWindow.xaml",
+              "RelativeToolTip": "App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T09:24:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAqwHkBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:24:32.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\BusinessLogic\\Simulation.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Simulation.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\BusinessLogic\\Simulation.cs",
+              "RelativeToolTip": "BusinessLogic\\Simulation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:47:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tier.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Tier.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Tier.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Tier.cs",
+              "RelativeToolTip": "Core\\Models\\Tier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:51:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gras.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Gras.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Gras.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Gras.cs",
+              "RelativeToolTip": "Core\\Models\\Gras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:52:13.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Wolf.cs",
+              "RelativeToolTip": "Core\\Models\\Wolf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:58:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClearableTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\ClearableTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "App\\ClearableTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\ClearableTextBox.xaml.cs",
+              "RelativeToolTip": "App\\ClearableTextBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:24:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClearableTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\ClearableTextBox.xaml",
+              "RelativeDocumentMoniker": "App\\ClearableTextBox.xaml",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\ClearableTextBox.xaml",
+              "RelativeToolTip": "App\\ClearableTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T09:24:39.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Schaf.cs",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Schaf.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Schaf.cs",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\Core\\Models\\Schaf.cs",
+              "RelativeToolTip": "Core\\Models\\Schaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:57:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LiveChartPopulation.xaml",
+              "DocumentMoniker": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\LiveChartPopulation.xaml",
+              "RelativeDocumentMoniker": "App\\LiveChartPopulation.xaml",
+              "ToolTip": "C:\\Users\\pichles1\\source\\repos\\WolfSchafGrasSimulation\\App\\LiveChartPopulation.xaml",
+              "RelativeToolTip": "App\\LiveChartPopulation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T09:24:43.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

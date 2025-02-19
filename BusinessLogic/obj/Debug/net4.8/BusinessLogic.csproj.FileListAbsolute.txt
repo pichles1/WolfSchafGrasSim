@@ -1,0 +1,5 @@
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\net4.8\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\net4.8\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\net4.8\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\net4.8\BusinessLogic.AssemblyInfo.cs
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\net4.8\BusinessLogic.csproj.CoreCompileInputs.cache

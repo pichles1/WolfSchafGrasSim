@@ -1,0 +1,5 @@
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\Core\obj\Debug\net4.8\Core.csproj.AssemblyReference.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\Core\obj\Debug\net4.8\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\Core\obj\Debug\net4.8\Core.AssemblyInfoInputs.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\Core\obj\Debug\net4.8\Core.AssemblyInfo.cs
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\Core\obj\Debug\net4.8\Core.csproj.CoreCompileInputs.cache

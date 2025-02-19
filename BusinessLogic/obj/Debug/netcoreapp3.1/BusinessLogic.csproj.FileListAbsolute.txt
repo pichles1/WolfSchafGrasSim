@@ -1,0 +1,5 @@
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\pichles1\source\repos\WolfSchafGrasSimulation\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
